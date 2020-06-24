@@ -1,7 +1,7 @@
 # tessearctCOLAB
 Tessearct OCR using Google Colab
 
-Feutures : <br/>
+### Feutures : <br/>
 Image to String<br/>
 Hardcored subtitle video to String
 
